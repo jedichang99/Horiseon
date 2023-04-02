@@ -1,2 +1,3 @@
 # Horiseon
-This is the first project of Bootcamp
+
+This is the Horiseon repo
