@@ -19,10 +19,10 @@ N/A
 
 Now you can go about the whole page and see the alt imgs when you inspect the page. you ca also see th enew footer tags and the new title in the head.
 
-![The Whole Page](develop/assets/screenshot/whole-page.png)
-![New IMG ALT](develop/assets/screenshot/img-alt.png)
-![New Footer Tags](develop/assets/screenshot/Footer.png)
-![New Title](develop/assets/screenshot/new-title.png)
+![The Whole Page](assets/screenshot/whole-page.png)
+![New IMG ALT](assets/screenshot/img-alt.png)
+![New Footer Tags](assets/screenshot/Footer.png)
+![New Title](assets/screenshot/new-title.png)
 
 ## Credits
 
