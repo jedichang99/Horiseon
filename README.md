@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 The purpose of this project was to help Horiseon's website to meet accessibility standards so that our their site is optimized for search engines. I learned that there are some changes that need to be done that wont be reflected on the webpagw such as the ault img. This change helpes the visual imapired. If they cant see the img then there will be text that can be read out. Also, if the img is broken thene there will be text shown that says that the img is suppose to be.
 
 ## Table of Contents
